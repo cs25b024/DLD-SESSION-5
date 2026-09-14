@@ -37,10 +37,10 @@ void kmap::solve() {
             int F = t1 + t2 + t3 + t4;
             if (F >= 1){
                 cout << "1" << endl;
-	    }
+	    	}
             else{
-		cout << "0" << endl;
-	    }
+				cout << "0" << endl;
+	    	}
         }
     }
 }
